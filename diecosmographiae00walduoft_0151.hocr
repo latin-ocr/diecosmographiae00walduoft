@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./diecosmographiae00walduoft_0151.png"; bbox 0 0 2664 3880; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 2606 3880">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 2606 3880">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 2606 3880; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 273 3880; x_wconf 95' lang='lat' dir='ltr'> </span> <span class='ocrx_word' id='word_1_2' title='bbox 1589 3850 1649 3880; x_wconf 95' lang='lat' dir='ltr'> </span> <span class='ocrx_word' id='word_1_3' title='bbox 1815 3847 2095 3880; x_wconf 95' lang='lat' dir='ltr'> </span> <span class='ocrx_word' id='word_1_4' title='bbox 2554 3854 2606 3880; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2116 3857 2551 3880">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2116 3857 2551 3880">
+     <span class='ocr_line' id='line_1_2' title="bbox 2116 3857 2551 3880; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 2116 3868 2126 3875; x_wconf 52' lang='lat' dir='ltr'>a</span> <span class='ocrx_word' id='word_1_6' title='bbox 2135 3864 2162 3880; x_wconf 58' lang='lat' dir='ltr'>*ae</span> <span class='ocrx_word' id='word_1_7' title='bbox 2177 3859 2190 3880; x_wconf 54' lang='lat' dir='ltr'>“a</span> <span class='ocrx_word' id='word_1_8' title='bbox 2200 3859 2238 3880; x_wconf 48' lang='grc' dir='ltr'>ὥς</span> <span class='ocrx_word' id='word_1_9' title='bbox 2266 3867 2283 3880; x_wconf 44' lang='lat'>⁴³</span> <span class='ocrx_word' id='word_1_10' title='bbox 2292 3867 2309 3880; x_wconf 56' lang='lat' dir='ltr'>J</span> <span class='ocrx_word' id='word_1_11' title='bbox 2317 3861 2477 3880; x_wconf 45' lang='lat' dir='ltr'>=2›r-¹,&#39;s;6⁴:a-...1&gt;;.</span> <span class='ocrx_word' id='word_1_12' title='bbox 2515 3857 2551 3880; x_wconf 43' lang='lat' dir='ltr'>Aa„</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
